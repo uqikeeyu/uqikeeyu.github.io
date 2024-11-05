@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uqikeeyu.github.io/Bfp/sitemap_index.txt
+Sitemap: https://uqikeeyu.github.io/ORx/sitemap_index.txt
+Sitemap: https://uqikeeyu.github.io/bWd/sitemap_index.txt
+Sitemap: https://uqikeeyu.github.io/lWu/sitemap_index.txt
